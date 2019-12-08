@@ -1,5 +1,5 @@
-#ifndef Header_H
-#define Header_H
+#ifndef RNA_H
+#define RNA_H
 #include <iostream>
 #include <cstdio>
 #include <cmath>
